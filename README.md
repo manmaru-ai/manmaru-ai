@@ -51,10 +51,5 @@
 
 <br/>
 
-<!-- Trophies -->
-<h3>🏆 GitHub Trophies</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=manmaru-ai&theme=onedark&no-bg=true&no-frame=true&column=6" alt="trophies" />
-</p>
 
 
