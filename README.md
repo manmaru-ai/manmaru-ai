@@ -16,6 +16,9 @@
   <a href="https://note.com/jammaru" target="_blank">
     <img src="https://github.com/manmaru-ai/manmaru-ai/blob/main/icon/note.webp?raw=true" alt="note" height="28" />
   </a>
+  <a href="https://x.com/jammaru_lab" target="_blank">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
   <a href="https://github.com/manmaru-ai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-manmaru--ai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -33,6 +36,7 @@
   <li>🧠 I specialize in AI (LLMs, agents, MCP, RAG, etc).</li>
   <li>🔗 Portfolio: <a href="https://manmaru-portfolio.vercel.app/" target="_blank">manmaru-portfolio.vercel.app</a></li>
   <li><img src="https://github.com/manmaru-ai/manmaru-ai/blob/main/icon/note.webp?raw=true" alt="note" height="16" style="vertical-align:-3px;margin-right:6px;" /> Note: <a href="https://note.com/jammaru" target="_blank">note.com/jammaru</a></li>
+  <li>𝕏: <a href="https://x.com/jammaru_lab" target="_blank">x.com/jammaru_lab</a></li>
 </ul>
 
 <br/>
