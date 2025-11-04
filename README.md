@@ -47,12 +47,6 @@
 
 <br/>
 
-<!-- Activities -->
-<h3>🏃‍♀️ Activities</h3>
-<div align="left">
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=manmaru-ai&theme=vue-dark&show_icons=true" />
-  <img alt="Top Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmaru-ai&theme=vue-dark&layout=compact" />
-</div>
 
 
 
