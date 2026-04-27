@@ -49,10 +49,14 @@
 
 <!-- Activities -->
 <h3>🏃‍♀️ Activities</h3>
-<div align="left">
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api?username=manmaru-ai&theme=vue-dark&show_icons=true" />
-  <img alt="Top Languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manmaru-ai&theme=vue-dark&layout=compact" />
-</div>
 
+<p align="center">
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manmaru-ai&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manmaru-ai&theme=github_dark" />
+  <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manmaru-ai&theme=github_dark" />
+</p>
 
 
