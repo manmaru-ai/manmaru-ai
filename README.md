@@ -43,7 +43,7 @@
 
 <!-- Skills -->
 <h3>🌱 Skills</h3>
-<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,react,nextjs,tailwind,nodejs,rust,tauri,python,ruby,rails,graphql,supabase,vercel,cloudflare,docker,git" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,ts,react,nextjs,astro,tailwind,nodejs,rust,tauri,python,ruby,rails,graphql,supabase,vercel,cloudflare,docker,git" />
 
 <br/>
 
